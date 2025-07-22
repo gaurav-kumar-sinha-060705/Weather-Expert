@@ -1,6 +1,5 @@
 # Weather Expert Website Documentation
-![1600x1200](/screenshots/1600x1200.png)
-[Weather Expert](https://Gaurav060705.github.io/weather Expert/)
+[Weather-Expert](https://github.com/gaurav-kumar-sinha-060705/Weather-Expert)
 ## Introduction
 
 Weather Expert is a web application that provides real-time weather information. It offers features such as viewing the current weather, a 5-day forecast, wind speed, temperature for the current day, sunrise and sunset times, air quality, humidity, visibility, feels like temperature, and atmospheric pressure.
@@ -26,7 +25,6 @@ The application is developed using HTML, CSS, and JavaScript, and it utilizes th
 7. [Functionality](#functionality)
 8. [Screenshots](#screenshots)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Project Overview
 
@@ -126,7 +124,3 @@ The `route.js` file manages the application's routing system. It defines routes 
 ## Contributing
 
 We welcome contributions to enhance the project! If you find any issues or have ideas for improvements, please don't hesitate to report them through GitHub issues. You can also suggest enhancements or submit pull requests to help make this project even better.
-
-## License
-
-This project is distributed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](https://github.com/Gaurav060705/weather Expert/blob/main/LICENSE) file.
